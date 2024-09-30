@@ -15,8 +15,8 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 Você pode me encontrar nas seguintes redes sociais:
 
 - [LinkedIn](link-para-o-seu-linkedin)
-- [Email](mailto:seu-email@example.com)
-
+- [Email
+  ](mailto:seu-email@example.com)
 
 ---
 
