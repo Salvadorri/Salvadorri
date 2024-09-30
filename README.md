@@ -31,7 +31,7 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 - Análise de Dados:
 - DevOps
 -Automação
--
+- Tra
 ## Contato
 
 Você pode me encontrar nas seguintes redes sociais:
