@@ -30,7 +30,7 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 - Gerenciamento de Projetos
 - Análise de Dados:
 - DevOps
--Automação
+- Automação
 - Trabalho de Equipe
 ## Contato
 
