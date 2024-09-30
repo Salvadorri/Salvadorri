@@ -9,7 +9,6 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 - Linguagens de Programação: Javascritp, python, php, css  e html
 - Ferramentas e Tecnologias: Google Cloud, proxmox, Git, docker, podman, Llama.cpp, proxmox, firewall e Redes
 - Outras Habilidades: Gerenciador de projetos,
-- 
 
 ## Contato
 
