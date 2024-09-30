@@ -33,7 +33,7 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 
 Aqui estão alguns dos meus projetos destacados:
 
-- [Nome do Projeto](https://chatonli): Breve descrição do projeto.
+- [Nome do Projeto](https://chatonline): Breve descrição do projeto.
 
 ## Contato
 
