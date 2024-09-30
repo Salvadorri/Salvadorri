@@ -29,7 +29,7 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 
 - Gerenciamento de Projetos
 - Análise de Dados:
-
+-
 ## Contato
 
 Você pode me encontrar nas seguintes redes sociais:
