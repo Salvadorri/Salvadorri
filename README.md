@@ -17,6 +17,10 @@ Você pode me encontrar nas seguintes redes sociais:
 - [LinkedIn](link-para-o-seu-linkedin)
 - [Email](mailto:seu-email@example.com)
 
+## Contribuições
+
+Sinta-se à vontade para contribuir com qualquer um dos meus projetos! Apreciarei muito qualquer feedback ou sugestão.
+
 ---
 
 Obrigado por visitar meu perfil! 😊
