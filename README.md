@@ -6,7 +6,7 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 
 ## Habilidades
 
-- Linguagens de Programação: Javascritp,python php, css, html
+- Linguagens de Programação: Javascritp,python, php, css, html
 - Ferramentas e Tecnologias: [Liste as ferramentas e tecnologias que você utiliza, por exemplo: Git, Docker, AWS, etc.]
 - Outras Habilidades: [Liste outras habilidades relevantes, por exemplo: Design de UI/UX, Gerenciamento de Projetos, etc.]
 
