@@ -28,7 +28,7 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 ### Outras Habilidades
 
 - Gerenciamento de Projetos
-
+-
 
 ## Contato
 
