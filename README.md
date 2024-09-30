@@ -29,11 +29,6 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 
 - Gerenciamento de Projetos
 
-## Projetos
-
-Aqui estão alguns dos meus projetos destacados:
-
-- [Nome do Projeto](https://chatonline.com.br): Breve descrição do projeto.
 
 ## Contato
 
