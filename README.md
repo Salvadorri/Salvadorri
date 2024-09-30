@@ -7,7 +7,7 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 ## Habilidades
 
 - Linguagens de Programação: Javascritp, python, php, css  e html
-- Ferramentas e Tecnologias: proxmoxGit, docker, podman, Llama.cpp, proxmox, firewall,
+- Ferramentas e Tecnologias: proxmox, Git, docker, podman, Llama.cpp, proxmox, firewall,
 - Outras Habilidades: [Liste outras habilidades relevantes, por exemplo: Design de UI/UX, Gerenciamento de Projetos, etc.]
 
 ## Projetos
