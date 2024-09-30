@@ -15,7 +15,6 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 Aqui estão alguns dos meus projetos destacados:
 
 - [Nome do Projeto](link-para-o-projeto): Breve descrição do projeto.
-- [Nome do Projeto](link-para-o-projeto): Breve descrição do projeto.
 
 ## Contato
 
