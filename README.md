@@ -7,6 +7,7 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 ## Habilidades
 
 ### Linguagens de Programação
+
 - JavaScript
 - Python
 - PHP
@@ -14,6 +15,7 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 - HTML
 
 ### Ferramentas e Tecnologias
+
 - Google Cloud
 - Proxmox
 - Git
@@ -24,14 +26,13 @@ Atualmente, estou trabalhando na Hitec Informática. Sou apaixonado por tecnolog
 - Redes
 
 ### Outras Habilidades
+
 - Gerenciamento de Projetos
 
 ## Projetos
 
 Aqui estão alguns dos meus projetos destacados:
 
-- [Nome do Projeto](link-para-o-projeto): Breve descrição do projeto.
-- [Nome do Projeto](link-para-o-projeto): Breve descrição do projeto.
 - [Nome do Projeto](link-para-o-projeto): Breve descrição do projeto.
 
 ## Contato
