@@ -1,6 +1,6 @@
 # Hello, i am Rodrigo Schaucoski Salvadori! 👋
 
-<p> <img align="center" src="https://readmestats.999857.xyz/api?username=Salvadorri&show_icons=true&locale=en&theme=tokyonight" alt="Salvadorri" /></p>
+<p> <img align="center" src="https://readmestats.999857.xyz/api?username=RS-Salvadori&show_icons=true&locale=en&theme=tokyonight" alt="Salvadorri" /></p>
 
 ## About Me
 
